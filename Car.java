@@ -25,7 +25,7 @@ public abstract class Car {
     }
 
     public void printCar(){
-        System.out.println("Car name-model-year: "+ name+"-"+model+ "-"+ year +": \n\t" + " With Milage= "+ milage + " is: "+price );
+        System.out.println("Car name-model-year: "+ name+"-"+model+ "-"+ year +": \n\t" + " With Milage= "+ milage + " is: $"+price );
     }
     
 }
