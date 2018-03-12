@@ -12,7 +12,7 @@ package myfactorypattern;
 public class Chevy extends Car{
    
     public Chevy() {
-        super("Chevi", "Camaro", 10500.00, 2002, 253000);
+        super("Chevy", "Camaro", 10500.00, 2002, 253000);
     }
 
    
