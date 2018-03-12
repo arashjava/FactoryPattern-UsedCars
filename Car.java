@@ -9,7 +9,7 @@ package myfactorypattern;
  *
  * @author arash
  */
-public class Car {
+public abstract class Car {
     private String name;
     private String model;
     private Double price;
